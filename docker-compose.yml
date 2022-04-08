@@ -2,7 +2,7 @@ version: '3.1'
 services:
   web:
     platform: linux/arm64/v8
-    image: odoo:14.0
+    image: arm64v8/odoo:latest
 
     depends_on:
       - db
