@@ -70,7 +70,7 @@ Archivo básico de configuración para odoo y postgresql:
 version: '3.1'
 services:
   web:
-    image: odoo:14.0
+    image: odoo
     depends_on:
       - db
     ports:
@@ -82,3 +82,7 @@ services:
       - POSTGRES_PASSWORD=odoo
       - POSTGRES_USER=odoo
 ```
+
+Iniciar docker-compose
+
+`docker-compose up -d`
