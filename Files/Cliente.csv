@@ -1,101 +1,314 @@
-id;Nombre;Correo electrónico;País;Estado;Ciudad;C.P;RFC;Teléfono;Tipo de Compañía
-CLI-0001;Anna-diana Rodenborch;arodenborch0@moonfruit.com;Guatemala;Baja Verapaz;San Jerónimo;15007;412-20-9271;(402) 3726218;Compañía
-CLI-0002;Axe Rae;arae1@list-manage.com;Guatemala;Guatemala;San Luis;17009;512-59-0037;(409) 1485853;Individual
-CLI-0003;Durant Shervil;dshervil2@deviantart.com;Guatemala;Guatemala;Morales;18004;818-11-1415;(552) 8081987;Compañía
-CLI-0004;Arturo Rieflin;arieflin3@hibu.com;Guatemala;Guatemala;Pueblo Nuevo Viñas;6013;100-39-7516;(578) 5192706;Compañía
-CLI-0005;Farica Minor;fminor4@privacy.gov.au;Guatemala;Escuintla;San Vicente Pacaya;5012;523-38-0414;(879) 8186444;Individual
-CLI-0006;Lian Sellstrom;lsellstrom5@who.int;Guatemala;Guatemala;San Pedro Necta;13006;637-78-9678;(590) 8448401;Individual
-CLI-0007;Karlens Inkpin;kinkpin6@miibeian.gov.cn;Guatemala;Guatemala;El Quetzal;12020;605-77-0404;(553) 7522922;Compañía
-CLI-0008;Ryon Lead;rlead7@paypal.com;Guatemala;Chimaltenango;Santa Apolonia;4005;695-54-0997;(302) 6831027;Individual
-CLI-0009;Sioux Bernasek;sbernasek8@reverbnation.com;Guatemala;Retalhuleu;Champerico;11007;143-35-6955;(650) 1134004;Compañía
-CLI-0010;Selby MacSweeney;smacsweeney9@ehow.com;Guatemala;Jutiapa;El Adelanto;22009;855-88-6572;(714) 8114971;Individual
-CLI-0011;Ilaire Lundy;ilundya@alexa.com;Guatemala;Guatemala;Lívingston;18002;210-48-8601;(980) 5706882;Individual
-CLI-0012;Cal Spykings;cspykingsb@cdc.gov;Guatemala;Escuintla;Escuintla;5001;445-64-6517;(856) 6014007;Individual
-CLI-0013;Shanna Fullegar;sfullegarc@rakuten.co.jp;Guatemala;Zacapa;Teculután;19005;653-62-1058;(498) 5364624;Compañía
-CLI-0014;Dolores Tanguy;dtanguyd@tripod.com;Guatemala;Totonicapán;San Cristóbal Totonicapán;8002;613-55-7820;(828) 4914467;Individual
-CLI-0015;April Eustice;aeusticee@bbb.org;Guatemala;Guatemala;San Miguel Dueñas;3017;406-71-7600;(327) 3195645;Compañía
-CLI-0016;Stanly Gercke;sgerckef@usgs.gov;Guatemala;Guatemala;San Luis Jilotepeque;21003;739-42-2746;(663) 8242396;Individual
-CLI-0017;Keenan Ryton;krytong@cafepress.com;Guatemala;Alta Verapaz;Tucurú;16006;638-57-3983;(912) 3970355;Compañía
-CLI-0018;Lane Matskiv;lmatskivh@google.es;Guatemala;Guatemala;San Juan Atitán;13020;223-38-2983;(706) 8680661;Compañía
-CLI-0019;Amalle Gadney;agadneyi@friendfeed.com;Guatemala;Guatemala;San Juan Bautista;10016;202-78-6323;(913) 5698451;Individual
-CLI-0020;Zoe Dunderdale;zdunderdalej@theguardian.com;Guatemala;Totonicapán;San Cristóbal Totonicapán;8002;215-44-2660;(484) 7276935;Compañía
-CLI-0021;Rupert Tothe;rtothek@xing.com;Guatemala;Guatemala;Ciudad Tecún Umán;22011;824-91-7018;(972) 5720603;Individual
-CLI-0022;Paige Srutton;psruttonl@wunderground.com;Guatemala;Santa Rosa;Taxisco;6009;170-44-4463;(269) 1839473;Compañía
-CLI-0023;Tomas Pawley;tpawleym@hugedomains.com;Guatemala;Alta Verapaz;Senahú;16008;674-44-6224;(861) 7129523;Compañía
-CLI-0024;Hastie Chittim;hchittimn@gnu.org;Guatemala;Guatemala;San Rafael Petzal;13028;681-07-7027;(549) 6074579;Individual
-CLI-0025;Emmanuel Knapman;eknapmano@state.tx.us;Guatemala;Santa Rosa;Barberena;6002;280-76-9667;(799) 7457150;Individual
-CLI-0026;Devondra Saiger;dsaigerp@opensource.org;Guatemala;Guatemala;San Marcos;12001;777-99-8073;(374) 3897069;Compañía
-CLI-0027;Willy Godber;wgodberq@indiegogo.com;Guatemala;Escuintla;San José;17004;224-40-3366;(979) 3591076;Compañía
-CLI-0028;Budd Jellyman;bjellymanr@ca.gov;Guatemala;Guatemala;Yepocapa;4012;484-93-4282;(997) 1501535;Individual
-CLI-0029;Gale Bernet;gbernets@friendfeed.com;Guatemala;Quetzaltenango;Cabricán;9015;353-28-8572;(541) 1030523;Individual
-CLI-0030;Griffy Menci;gmencit@gizmodo.com;Guatemala;Huehuetenango;Jacaltenango;13007;606-58-2675;(775) 9916161;Compañía
-CLI-0031;Isabeau Finden;ifindenu@sakura.ne.jp;Guatemala;Alta Verapaz;Tamahú;16005;648-54-4350;(197) 3291151;Individual
-CLI-0032;Ravid Ludwell;rludwellv@symantec.com;Guatemala;Chimaltenango;Santa Cruz Balanyá;4015;127-58-7020;(557) 1989494;Compañía
-CLI-0033;Hussein Curuclis;hcuruclisw@google.cn;Guatemala;Guatemala;El Quetzal;12020;244-30-3818;(753) 4563760;Individual
-CLI-0034;Grover Lacky;glackyx@tinypic.com;Guatemala;Escuintla;Escuintla;5001;681-52-9071;(574) 4558407;Compañía
-CLI-0035;Henrie Hunnywell;hhunnywelly@w3.org;Guatemala;Guatemala;San Lucas Sacatepéquez;3009;759-45-6458;(892) 4912759;Individual
-CLI-0036;Land Stannering;lstanneringz@edublogs.org;Guatemala;Chimaltenango;Zaragoza;4015;510-92-7675;(589) 7382055;Individual
-CLI-0037;Maximo Britee;mbritee10@jiathis.com;Guatemala;Chimaltenango;Santa Cruz Balanyá;4015;690-22-6098;(982) 8125797;Individual
-CLI-0038;Miguel Samme;msamme11@theatlantic.com;Guatemala;Guatemala;Tajumulco;12009;504-53-2307;(840) 4808626;Individual
-CLI-0039;Sherlock Phillippo;sphillippo12@bloglovin.com;Guatemala;Quiché;Jocotenango;3002;765-69-9058;(657) 4322084;Individual
-CLI-0040;Nara Gauntley;ngauntley13@pen.io;Guatemala;Jutiapa;Quesada;22017;341-04-4842;(284) 1047818;Individual
-CLI-0052;Chic Gambles;cgambles1f@howstuffworks.com;Guatemala;Suchitepéquez;Ciudad Vieja;3012;271-34-8567;(523) 3174009;Individual
-CLI-0042;Zonnya Duly;zduly15@wired.com;Guatemala;Guatemala;Puerto San José;5009;569-92-8462;(755) 6816014;Individual
-CLI-0043;Penelope Jeynes;pjeynes16@cbc.ca;Guatemala;Chimaltenango;Patzicía;4011;723-62-9359;(217) 9896754;Individual
-CLI-0044;Corty Ulyet;culyet17@meetup.com;Guatemala;Guatemala;San Lucas Sacatepéquez;3009;541-67-9505;(943) 5844737;Compañía
-CLI-0062;Blanche Tansey;btansey1p@domainmarket.com;Guatemala;Suchitepéquez;Ciudad Vieja;3012;483-24-5848;(716) 3279985;Individual
-CLI-0046;Sherwin Gregoire;sgregoire19@wordpress.org;Guatemala;Jutiapa;Jalpatagua;22012;627-48-1707;(804) 4771715;Compañía
-CLI-0047;Frans Wilshere;fwilshere1a@storify.com;Guatemala;Jutiapa;Jalpatagua;22012;182-28-4149;(815) 9286321;Compañía
-CLI-0048;Debby Bohlsen;dbohlsen1b@upenn.edu;Guatemala;Guatemala;Comalapa;4004;609-85-7272;(187) 4929530;Compañía
-CLI-0049;Koressa Kyme;kkyme1c@vistaprint.com;Guatemala;Guatemala;San Pedro Pinula;21002;380-78-5058;(783) 7510801;Compañía
-CLI-0050;Gracie Hymans;ghymans1d@psu.edu;Guatemala;El Progreso;Morazán;2015;719-52-2351;(564) 7127693;Individual
-CLI-0051;Silva Coenraets;scoenraets1e@simplemachines.org;Guatemala;Guatemala;La Reforma;12021;662-90-5398;(893) 2575103;Compañía
-CLI-0041;Helli Teodoro;hteodoro14@i2i.jp;Guatemala;Sacatepéquez;Zunilito;10009;793-95-9358;(906) 3856710;Individual
-CLI-0053;Victor Beaton;vbeaton1g@artisteer.com;Guatemala;Chiquimula;Jocotán;20005;210-79-4923;(739) 9534677;Compañía
-CLI-0054;Bridget Packman;bpackman1h@cargocollective.com;Guatemala;Guatemala;San Manuel Chaparrón;22003;415-24-4233;(641) 6742248;Compañía
-CLI-0055;Ansel Kitman;akitman1i@clickbank.net;Guatemala;Guatemala;Chuarrancho;1061;200-10-2056;(499) 3085191;Individual
-CLI-0056;Caren Atthow;catthow1j@boston.com;Guatemala;Guatemala;San Benito;17003;367-01-0980;(465) 8032845;Compañía
-CLI-0057;Shandee Stonhard;sstonhard1k@boston.com;Guatemala;Guatemala;Jerez;22010;662-58-6251;(117) 2424188;Compañía
-CLI-0058;Aldon Barrat;abarrat1l@ovh.net;Guatemala;Guatemala;San Pedro Jocopilas;14009;898-55-8563;(622) 8928417;Compañía
-CLI-0059;Natasha Loney;nloney1m@yahoo.co.jp;Guatemala;Guatemala;San Juan Ixcoy;13023;522-99-0435;(831) 1200816;Compañía
-CLI-0060;Lodovico Spikings;lspikings1n@nature.com;Guatemala;Chiquimula;San Juan Ermita;20003;648-90-0499;(863) 3626623;Individual
-CLI-0061;Demetrius Ludlam;dludlam1o@imdb.com;Guatemala;Guatemala;Pueblo Nuevo Viñas;6013;184-08-4665;(465) 4837108;Compañía
-CLI-0045;Winne Jandac;wjandac18@cafepress.com;Guatemala;Sacatepéquez;Patulul;10014;453-09-6459;(862) 9871558;Compañía
-CLI-0063;Leonid Cloonan;lcloonan1q@netscape.com;Guatemala;Guatemala;San Pedro Necta;13006;411-33-7557;(621) 6276683;Compañía
-CLI-0064;Lori Almak;lalmak1r@g.co;Guatemala;Santa Rosa;Barberena;6002;125-31-6487;(233) 8265110;Individual
-CLI-0065;Edna Panther;epanther1s@fc2.com;Guatemala;Guatemala;Esquipulas Palo Gordo;12027;130-23-1919;(990) 9122147;Individual
-CLI-0066;Robin Brinklow;rbrinklow1t@prlog.org;Guatemala;Guatemala;San Bernardino;10004;186-14-1579;(405) 6343063;Individual
-CLI-0067;Paulina Maly;pmaly1u@archive.org;Guatemala;Guatemala;San Antonio Ilotenango;14008;541-88-1765;(733) 9391778;Individual
-CLI-0068;Doe Wenn;dwenn1v@flavors.me;Guatemala;Guatemala;Tecpán Guatemala;4006;604-53-8902;(179) 8013262;Compañía
-CLI-0069;Roze Houseman;rhouseman1w@msu.edu;Guatemala;Guatemala;Ciudad Tecún Umán;22011;206-72-7679;(712) 7591781;Individual
-CLI-0070;Jeffry Georghiou;jgeorghiou1x@yellowpages.com;Guatemala;Guatemala;Santa Cruz La Laguna;7014;455-18-5939;(311) 9255235;Compañía
-CLI-0071;Florencia McKinnell;fmckinnell1y@jigsy.com;Guatemala;Guatemala;Comitancillo;12004;294-15-6205;(314) 3976156;Compañía
-CLI-0072;Elene Orred;eorred1z@europa.eu;Guatemala;Chimaltenango;Pochuta;4008;310-38-7049;(206) 9712169;Individual
-CLI-0073;Abran Boundey;aboundey20@chicagotribune.com;Guatemala;El Progreso;Morazán;2015;831-23-2014;(639) 7854491;Individual
-CLI-0074;Norean McCroary;nmccroary21@xing.com;Guatemala;Guatemala;Jerez;22010;181-07-1496;(936) 3885586;Individual
-CLI-0075;Lauritz Bucksey;lbucksey22@ameblo.jp;Guatemala;Suchitepéquez;Chicacao;10013;649-39-6629;(502) 7476651;Compañía
-CLI-0076;Avril Boules;aboules23@vkontakte.ru;Guatemala;Guatemala;Yepocapa;4012;692-10-9249;(610) 9192404;Compañía
-CLI-0077;Julius Seares;jseares24@weebly.com;Guatemala;Zacapa;Cabañas;19018;377-95-3372;(629) 3512055;Individual
-CLI-0078;Allyn Goshawke;agoshawke25@twitpic.com;Guatemala;Guatemala;San Lucas Sacatepéquez;3009;818-24-6514;(165) 8736198;Compañía
-CLI-0079;Darrin Flux;dflux26@devhub.com;Guatemala;Guatemala;El Quetzal;12020;263-10-9330;(226) 8540084;Compañía
-CLI-0080;Cinnamon Luchetti;cluchetti27@geocities.jp;Guatemala;Chimaltenango;San José Poaquil;4002;643-06-3640;(976) 7287459;Individual
-CLI-0081;Frederique Brownett;fbrownett28@google.co.uk;Guatemala;Jutiapa;Asunción Mita;22005;604-09-9196;(986) 7063948;Individual
-CLI-0082;Janelle Hanscome;jhanscome29@nature.com;Guatemala;Retalhuleu;San Andrés Villa Seca;11006;417-31-1228;(392) 4937023;Compañía
-CLI-0083;Lonny Tickle;ltickle2a@imgur.com;Guatemala;Guatemala;San Lucas Tolimán;7013;850-12-2547;(837) 5614654;Individual
-CLI-0084;Lottie Huyhton;lhuyhton2b@webmd.com;Guatemala;Guatemala;San Andrés;17004;824-02-6848;(986) 2251586;Individual
-CLI-0085;Cynthea House;chouse2c@shop-pro.jp;Guatemala;Sololá;Concepción;7023;778-69-9808;(523) 9351210;Individual
-CLI-0086;Darya Boundley;dboundley2d@narod.ru;Guatemala;Guatemala;El Chol;15006;770-58-4072;(789) 3550444;Compañía
-CLI-0087;Phillipe Eddleston;peddleston2e@wikipedia.org;Guatemala;Quiché;Jocotenango;3002;225-15-5078;(733) 2357051;Compañía
-CLI-0088;Federico Frankum;ffrankum2f@163.com;Guatemala;Huehuetenango;Chiantla;13002;880-61-3394;(722) 7383704;Compañía
-CLI-0089;May Rains;mrains2g@skyrock.com;Guatemala;Guatemala;Santa Cruz La Laguna;7014;105-31-6148;(540) 2890337;Individual
-CLI-0090;Ashia Silverson;asilverson2h@rediff.com;Guatemala;Suchitepéquez;Mazatenango;10001;393-25-1920;(184) 3219746;Individual
-CLI-0091;Nadine Tiesman;ntiesman2i@fema.gov;Guatemala;Guatemala;San Juan Bautista;10016;565-89-1844;(644) 4423841;Compañía
-CLI-0092;Avis Nalder;analder2j@ox.ac.uk;Guatemala;Chimaltenango;Zaragoza;4015;735-58-9962;(142) 1735978;Individual
-CLI-0093;Valene Buyers;vbuyers2k@icio.us;Guatemala;Suchitepéquez;Patulul;10014;279-26-0580;(344) 8834548;Individual
-CLI-0094;Viva Clowney;vclowney2l@acquirethisname.com;Guatemala;Chimaltenango;Santa Apolonia;4005;143-03-0488;(226) 3041698;Compañía
-CLI-0095;Devondra Cainey;dcainey2m@technorati.com;Guatemala;Guatemala;San Rafael Petzal;13028;874-37-3757;(722) 7917555;Individual
-CLI-0096;Jamaal Climer;jclimer2n@cargocollective.com;Guatemala;Guatemala;Chuarrancho;1061;318-93-9086;(833) 5323819;Compañía
-CLI-0097;Ally MacCumiskey;amaccumiskey2o@sphinn.com;Guatemala;Izabal;El Estor;18003;888-78-7415;(580) 7247422;Individual
-CLI-0098;Roxine Bramhall;rbramhall2p@ucla.edu;Guatemala;Guatemala;Comitancillo;12004;132-14-9875;(222) 4118946;Compañía
-CLI-0099;Rafaello Durden;rdurden2q@soundcloud.com;Guatemala;Chimaltenango;Acatenango;4011;636-34-1298;(744) 1216254;Individual
-CLI-0100;Emilio Wiltshear;ewiltshear2r@posterous.com;Guatemala;Guatemala;San Lucas Tolimán;7013;689-34-2938;(889) 9748694;Individual
+Departamento;Copia;Municipio;;Municipio;Departamento
+Alta Verapaz;1. Cobán;Cobán;;San Jerónimo;Baja Verapaz
+Alta Verapaz;2. Santa Cruz Verapaz;Santa Cruz Verapaz;;San Luis;Guatemala
+Alta Verapaz;3. San Cristóbal Verapaz;San Cristóbal Verapaz;;Morales;Guatemala
+Alta Verapaz;4. Tactic;Tactic;;Pueblo Nuevo Viñas;Guatemala
+Alta Verapaz;5. Tamahú;Tamahú;;San Vicente Pacaya;Escuintla
+Alta Verapaz;6. San Pedro Carchá;San Pedro Carchá;;San Pedro Necta;Guatemala
+Alta Verapaz;7. San Juan Chamelco;San Juan Chamelco;;El Quetzal;Guatemala
+Alta Verapaz;8. Panzós;Panzós;;Santa Apolonia;Chimaltenango
+Alta Verapaz;9. Lanquín;Lanquín;;Champerico;Retalhuleu
+Alta Verapaz;10. Cahabón;Cahabón;;El Adelanto;Jutiapa
+Alta Verapaz;11. Chisec;Chisec;;Lívingston;Guatemala
+Alta Verapaz;12. Chahal;Chahal;;Escuintla;Escuintla
+Alta Verapaz;13. Fray Bartolomé de las Casas;Fray Bartolomé de las Casas;;Teculután;Zacapa
+Alta Verapaz;14. Santa Catalina la Tinta;Santa Catalina la Tinta;;San Cristóbal Totonicapán;Totonicapán
+Alta Verapaz;15. Raxruhá;Raxruhá;;San Miguel Dueñas;Guatemala
+Alta Verapaz;16. Senahú;Senahú;;San Luis Jilotepeque;Guatemala
+Alta Verapaz;17. Tucurú;Tucurú;;Tucurú;Alta Verapaz
+Baja Verapaz;1. Cubulco;Cubulco;;San Juan Atitán;Guatemala
+Baja Verapaz;2. Granados;Granados;;San Juan Bautista;Guatemala
+Baja Verapaz;3. Purulhá;Purulhá;;San Cristóbal Totonicapán;Totonicapán
+Baja Verapaz;4. Rabinal;Rabinal;;Ciudad Tecún Umán;Guatemala
+Baja Verapaz;5. Salamá;Salamá;;Taxisco;Santa Rosa
+Baja Verapaz;6. San Jerónimo;San Jerónimo;;Senahú;Alta Verapaz
+Baja Verapaz;7. San Miguel Chicaj;San Miguel Chicaj;;San Rafael Petzal;Guatemala
+Baja Verapaz;8. Santa Cruz el Chol;Santa Cruz el Chol;;Barberena;Santa Rosa
+Chimaltenango;1. Acatenango;Acatenango;;San Marcos;Guatemala
+Chimaltenango;2. El Tejar;El Tejar;;San José;Escuintla
+Chimaltenango;3. Chimaltenango;Chimaltenango;;Yepocapa;Guatemala
+Chimaltenango;4. Parramos;Parramos;;Cabricán;Quetzaltenango
+Chimaltenango;5. Patzicía;Patzicía;;Jacaltenango;Huehuetenango
+Chimaltenango;6. Patzún;Patzún;;Tamahú;Alta Verapaz
+Chimaltenango;7. Pochuta;Pochuta;;Santa Cruz Balanyá;Chimaltenango
+Chimaltenango;8. San Andrés Itzapa;San Andrés Itzapa;;El Quetzal;Guatemala
+Chimaltenango;9. San José Poaquil;San José Poaquil;;Escuintla;Escuintla
+Chimaltenango;10. San Juan Comalapa;San Juan Comalapa;;San Lucas Sacatepéquez;Guatemala
+Chimaltenango;11. San Martín Jilotepeque;San Martín Jilotepeque;;Zaragoza;Chimaltenango
+Chimaltenango;12. San Pedro Yepocapa;San Pedro Yepocapa;;Santa Cruz Balanyá;Chimaltenango
+Chimaltenango;13. Santa Apolonia;Santa Apolonia;;Tajumulco;Guatemala
+Chimaltenango;14. Santa Cruz Balanyá;Santa Cruz Balanyá;;Jocotenango;Quiché
+Chimaltenango;15. Tecpán;Tecpán;;Quesada;Jutiapa
+Chimaltenango;16. Zaragoza;Zaragoza;;Zunilito;Suchitepéquez
+Chiquimula;1. Camotán;Camotán;;Puerto San José;Guatemala
+Chiquimula;2. Chiquimula;Chiquimula;;Patzicía;Chimaltenango
+Chiquimula;3. Concepción Las Minas;Concepción Las Minas;;San Lucas Sacatepéquez;Guatemala
+Chiquimula;4. Esquipulas;Esquipulas;;Patulul;Suchitepéquez
+Chiquimula;5. Ipala;Ipala;;Jalpatagua;Jutiapa
+Chiquimula;6. Jocotán;Jocotán;;Jalpatagua;Jutiapa
+Chiquimula;7. Olopa;Olopa;;Comalapa;Guatemala
+Chiquimula;8. Quetzaltepeque;Quetzaltepeque;;San Pedro Pinula;Guatemala
+Chiquimula;9. San Jacinto;San Jacinto;;Morazán;El Progreso
+Chiquimula;10. San José la Arada;San José la Arada;;La Reforma;Guatemala
+Chiquimula;11. San Juan Ermita;San Juan Ermita;;Ciudad Vieja;Sacatepéquez
+El Progreso;1. El Jícaro;El Jícaro;;Jocotán;Chiquimula
+El Progreso;2. Guastatoya;Guastatoya;;San Manuel Chaparrón;Guatemala
+El Progreso;3. Morazán;Morazán;;Chuarrancho;Guatemala
+El Progreso;4. San Agustín Acasaguastlán;San Agustín Acasaguastlán;;San Benito;Guatemala
+El Progreso;5. San Antonio La Paz;San Antonio La Paz;;Jerez;Guatemala
+El Progreso;6. San Cristóbal Acasaguastlán;San Cristóbal Acasaguastlán;;San Pedro Jocopilas;Guatemala
+El Progreso;7. Sanarate;Sanarate;;San Juan Ixcoy;Guatemala
+El Progreso;8. Sansare;Sansare;;San Juan Ermita;Chiquimula
+Escuintla;1. Escuintla;Escuintla;;Pueblo Nuevo Viñas;Guatemala
+Escuintla;2. Guanagazapa;Guanagazapa;;Ciudad Vieja;Sacatepéquez
+Escuintla;3. Iztapa;Iztapa;;San Pedro Necta;Guatemala
+Escuintla;4. La Democracia;La Democracia;;Barberena;Santa Rosa
+Escuintla;5. La Gomera;La Gomera;;Esquipulas Palo Gordo;Guatemala
+Escuintla;6. Masagua;Masagua;;San Bernardino;Guatemala
+Escuintla;7. Nueva Concepción;Nueva Concepción;;San Antonio Ilotenango;Guatemala
+Escuintla;8. Palín;Palín;;Tecpán Guatemala;Guatemala
+Escuintla;9. San José;San José;;Ciudad Tecún Umán;Guatemala
+Escuintla;10. San Vicente Pacaya;San Vicente Pacaya;;Santa Cruz La Laguna;Guatemala
+Escuintla;11. Santa Lucía Cotzumalguapa;Santa Lucía Cotzumalguapa;;Comitancillo;Guatemala
+Escuintla;12. Sipacate;Sipacate;;Pochuta;Chimaltenango
+Escuintla;13. Siquinalá;Siquinalá;;Morazán;El Progreso
+Escuintla;14. Tiquisate;Tiquisate;;Jerez;Guatemala
+Guatemala;Municipio de Amatitlán, Guatemala;Amatitlán;;Chicacao;Suchitepéquez
+Guatemala;Municipio de Chinautla, Guatemala;Chinautla;;Yepocapa;Guatemala
+Guatemala;Municipio de Chuarrancho, Guatemala;Chuarrancho;;Cabañas;Zacapa
+Guatemala;Municipio de Fraijanes, Guatemala;Fraijanes;;San Lucas Sacatepéquez;Guatemala
+Guatemala;Municipio de Palencia, Guatemala;Palencia;;El Quetzal;Guatemala
+Guatemala;Municipio de San José del Golfo, Guatemala;Golfo;;San José Poaquil;Chimaltenango
+Guatemala;Municipio de San José Pinula, Guatemala;Pinula;;Asunción Mita;Jutiapa
+Guatemala;Municipio de San Juan Sacatepéquez, Guatemala;Sacatepéquez;;San Andrés Villa Seca;Retalhuleu
+Guatemala;Municipio de San Miguel Petapa, Guatemala;Petapa;;San Lucas Tolimán;Guatemala
+Guatemala;Municipio de San Pedro Ayampuc, Guatemala;Ayampuc;;San Andrés;Guatemala
+Guatemala;Municipio de San Pedro Sacatepéquez, Guatemala;Sacatepéquez;;Concepción;Sololá
+Guatemala;Municipio de San Raymundo, Guatemala;Raymundo;;El Chol;Guatemala
+Guatemala;Municipio de Santa Catarina Pinula, Guatemala;Pinula;;Jocotenango;Quiché
+Huehuetenango;Municipio de Aguacatán, Huehuetenango;Aguacatán;;Chiantla;Huehuetenango
+Huehuetenango;Municipio de Chiantla, Huehuetenango;Chiantla;;Santa Cruz La Laguna;Guatemala
+Huehuetenango;Municipio de Colotenango, Huehuetenango;Colotenango;;Mazatenango;Suchitepéquez
+Huehuetenango;Municipio de Concepción Huista, Huehuetenango;Huista;;San Juan Bautista;Guatemala
+Huehuetenango;Municipio de Cuilco, Huehuetenango;Cuilco;;Zaragoza;Chimaltenango
+Huehuetenango;Municipio de Huehuetenango (Huehuetenango);Huehuetenango;;Patulul;Suchitepéquez
+Huehuetenango;Municipio de Jacaltenango, Huehuetenango;Jacaltenango;;Santa Apolonia;Chimaltenango
+Huehuetenango;Municipio de La Democracia, Huehuetenango;Democracia;;San Rafael Petzal;Guatemala
+Huehuetenango;Municipio de La Libertad, Huehuetenango;Libertad;;Chuarrancho;Guatemala
+Huehuetenango;Municipio de Malacatancito, Huehuetenango;Malacatancito;;El Estor;Izabal
+Huehuetenango;Municipio de Nentón, Huehuetenango;Nentón;;Comitancillo;Guatemala
+Huehuetenango;Municipio de San Antonio Huista, Huehuetenango;Huista;;Acatenango;Chimaltenango
+Huehuetenango;Municipio de San Gaspar Ixchil, Huehuetenango;Ixchil;;San Lucas Tolimán;Guatemala
+Huehuetenango;Municipio de San Ildefonso Ixtahuacán, Huehuetenango;Ixtahuacán;;;
+Huehuetenango;Municipio de San Juan Atitán, Huehuetenango;Atitán;;;
+Huehuetenango;Municipio de San Juan Ixcoy, Huehuetenango;Ixcoy;;;
+Huehuetenango;Municipio de San Mateo Ixtatán, Huehuetenango;Ixtatán;;;
+Huehuetenango;Municipio de San Miguel Acatán, Huehuetenango;Acatán;;;
+Huehuetenango;Municipio de San Pedro Necta, Huehuetenango;Necta;;;
+Huehuetenango;Municipio de San Pedro Soloma, Huehuetenango;Soloma;;;
+Huehuetenango;Municipio de San Rafael la Independencia, Huehuetenango;Independencia;;;
+Huehuetenango;Municipio de San Rafael Petzal, Huehuetenango;Petzal;;;
+Huehuetenango;Municipio de San Sebastián Coatán, Huehuetenango;Coatán;;;
+Huehuetenango;Municipio de San Sebastián, Huehuetenango;Sebastián;;;
+Huehuetenango;Municipio de Santa Ana Huista, Huehuetenango;Huista;;;
+Huehuetenango;Municipio de Santa Bárbara, Huehuetenango;Bárbara;;;
+Huehuetenango;Municipio de Santa Cruz Barillas, Huehuetenango;Barillas;;;
+Huehuetenango;Municipio de Santa Eulalia, Huehuetenango;Eulalia;;;
+Huehuetenango;Municipio de Santiago Chimaltenango, Huehuetenango;Chimaltenango;;;
+Huehuetenango;Municipio de Tectitán, Huehuetenango;Tectitán;;;
+Huehuetenango;Municipio de Todos Santos Cuchumatán, Huehuetenango;Cuchumatán;;;
+Huehuetenango;Municipio de Unión Cantinil, Huehuetenango;Cantinil;;;
+Izabal;;Izabal;;;
+Izabal;;Livingston;;;
+Izabal;;Santo Tomás;;;
+Izabal;;Quebradas;;;
+Izabal;;El Estor;;;
+Jalapa;Información del municipio de Jalapa (Jalapa);Jalapa;;;
+Jalapa;Información del municipio de Mataquescuintla, Jalapa;Mataquescuintla;;;
+Jalapa;Municipio de Monjas, Jalapa;Monjas;;;
+Jalapa;Municipio de San Carlos Alzatate, Jalapa;Alzatate;;;
+Jalapa;Municipio de San Luis Jilotepeque, Jalapa;Jilotepeque;;;
+Jalapa;Municipio de San Manuel Chaparrón, Jalapa;Chaparrón;;;
+Jalapa;Municipio de San Pedro Pinula, Jalapa;Pinula;;;
+Jutiapa;Información del municipio de El Progreso, Jutiapa;El Progreso;;;
+Jutiapa;Información del municipio de Jutiapa (Jutiapa);Jutiapa;;;
+Jutiapa;Información del municipio de Zapotitlán, Jutiapa;Zapotitlán;;;
+Jutiapa;Municipio de Agua Blanca, Jutiapa;Agua Blanca;;;
+Jutiapa;Municipio de Asunción Mita, Jutiapa;Asunción Mita;;;
+Jutiapa;Municipio de Atescatempa, Jutiapa;Atescatempa;;;
+Jutiapa;Municipio de Comapa, Jutiapa;Comapa;;;
+Jutiapa;Municipio de Conguaco, Jutiapa;Conguaco;;;
+Jutiapa;Municipio de El Adelanto, Jutiapa;El Adelanto;;;
+Jutiapa;Municipio de Jalpatagua, Jutiapa;Jalpatagua;;;
+Jutiapa;Municipio de Moyuta, Jutiapa;Moyuta;;;
+Jutiapa;Municipio de Pasaco, Jutiapa;Pasaco;;;
+Jutiapa;Municipio de Quesada, Jutiapa;Quesada;;;
+Jutiapa;Municipio de San José Acatempa, Jutiapa;San José Acatempa;;;
+Jutiapa;Municipio de Santa Catarina Mita, Jutiapa;Santa Catarina Mita;;;
+Jutiapa;Municipio de Yupiltepeque, Jutiapa;Yupiltepeque;;;
+Quetzaltenango;Municipio de Almolonga, Quetzaltenango;Almolonga;;;
+Quetzaltenango;Municipio de Cabricán, Quetzaltenango;Cabricán;;;
+Quetzaltenango;Municipio de Cajolá, Quetzaltenango;Cajolá;;;
+Quetzaltenango;Municipio de Cantel, Quetzaltenango;Cantel;;;
+Quetzaltenango;Municipio de Coatepeque, Quetzaltenango;Coatepeque;;;
+Quetzaltenango;Municipio de Colomba, Quetzaltenango;Colomba;;;
+Quetzaltenango;Municipio de Concepción Chiquirichapa, Quetzaltenango;Chiquirichapa;;;
+Quetzaltenango;Municipio de El Palmar, Quetzaltenango;Palmar;;;
+Quetzaltenango;Municipio de Flores Costa Cuca, Quetzaltenango;Cuca;;;
+Quetzaltenango;Municipio de Génova, Quetzaltenango;Génova;;;
+Quetzaltenango;Municipio de Huitán, Quetzaltenango;Huitán;;;
+Quetzaltenango;Municipio de La Esperanza, Quetzaltenango;Esperanza;;;
+Quetzaltenango;Municipio de Olintepeque, Quetzaltenango;Olintepeque;;;
+Quetzaltenango;Municipio de Palestina de los Altos, Quetzaltenango;Altos;;;
+Quetzaltenango;Municipio de Quetzaltenango (Quetzaltenango);Quetzaltenango;;;
+Quetzaltenango;Municipio de Salcajá, Quetzaltenango;Salcajá;;;
+Quetzaltenango;Municipio de San Carlos Sija, Quetzaltenango;Sija;;;
+Quetzaltenango;Municipio de San Francisco La Unión, Quetzaltenango;Unión;;;
+Quetzaltenango;Municipio de San Juan Ostuncalco, Quetzaltenango;Ostuncalco;;;
+Quetzaltenango;Municipio de San Martín Sacatepéquez, Quetzaltenango;Sacatepéquez;;;
+Quetzaltenango;Municipio de San Mateo, Quetzaltenango;Mateo;;;
+Quetzaltenango;Municipio de San Miguel Siguilá, Quetzaltenango;Siguilá;;;
+Quetzaltenango;Municipio de Sibilia, Quetzaltenango;Sibilia;;;
+Quetzaltenango;Municipio de Zunil, Quetzaltenango;Zunil;;;
+Quiché;Información acerca del Municipio de Canillá, Quiché;Canillá;;;
+Quiché;Información del municipio de Chinique, Quiché;Chinique;;;
+Quiché;Información del municipio de Cunén, Quiché;Cunén;;;
+Quiché;Información del municipio de Joyabaj, Quiché;Joyabaj;;;
+Quiché;Información del municipio de Pachalum, Quiché;Pachalum;;;
+Quiché;Información del municipio de Patzité, Quiché;Patzité;;;
+Quiché;Información del municipio de Playa Grande Ixcán, Quiché;Ixcán;;;
+Quiché;Información del municipio de Sacapulas, Quiché;Sacapulas;;;
+Quiché;Información del municipio de San Andrés Sajcabajá, Quiché;Sajcabajá;;;
+Quiché;Información del municipio de Santa Cruz del Quiché (Quiché);Quiché;;;
+Quiché;Información del municipio de Uspantan, Quiché;Uspantan;;;
+Quiché;Información del municipio de Zacualpa, Quiché;Zacualpa;;;
+Quiché;Municipio de Chajúl, Quiché;Chajúl;;;
+Quiché;Municipio de Chicamán, Quiché;Chicamán;;;
+Quiché;Municipio de Chiché, Quiché;Chiché;;;
+Quiché;Municipio de Chichicastenango, Quiché;Chichicastenango;;;
+Quiché;Municipio de San Antonio Ilotenango, Quiché;Ilotenango;;;
+Quiché;Municipio de San Bartolomé Jocotenango, Quiché;Jocotenango;;;
+Quiché;Municipio de San Juan Cotzal, Quiché;Cotzal;;;
+Quiché;Municipio de San Pedro Jocopilas, Quiché;Jocopilas;;;
+Retalhuleu;Municipio de Champerico, Retalhuleu;Champerico;;;
+Retalhuleu;Municipio de El Asintal, Retalhuleu;El Asintal;;;
+Retalhuleu;Municipio de Retalhuleu, Retalhuleu;Retalhuleu;;;
+Retalhuleu;Municipio de San Andrés Villa Seca, Retalhuleu;San Andrés Villa Seca;;;
+Retalhuleu;Municipio de San Felipe, Retalhuleu;San Felipe;;;
+Retalhuleu;Municipio de San Martín Zapotitlán, Retalhuleu;San Martín Zapotitlán;;;
+Retalhuleu;Municipio de San Sebastián, Retalhuleu;San Sebastián;;;
+Retalhuleu;Municipio de Santa Cruz Muluá, Retalhuleu;Santa Cruz Muluá;;;
+Retalhuleu;Municipio Nuevo San Carlos, Retalhuleu;San Carlos;;;
+Sacatepéquez;Información del municipio de Alotenango, departamento de Sacatepéquez;Alotenango;;;
+Sacatepéquez;Información del Municipio de Ciudad Vieja, Sacatepéquez;Ciudad Vieja;;;
+Sacatepéquez;Municipio de Antigua Guatemala, Sacatepéquez;Antigua Guatemala;;;
+Sacatepéquez;Municipio de Jocotenango, Sacatepéquez;Jocotenango;;;
+Sacatepéquez;Municipio de Magdalena Milpas Altas, Sacatepéquez;Milpas Altas;;;
+Sacatepéquez;Municipio de Pastores, Sacatepéquez;Pastores;;;
+Sacatepéquez;Municipio de San Antonio Aguas Calientes, Sacatepéquez;San Antonio Aguas Calientes;;;
+Sacatepéquez;Municipio de San Bartolomé Milpas Altas, Sacatepéquez;San Bartolomé Milpas Altas;;;
+Sacatepéquez;Municipio de San Lucas, Sacatepéquez;San Lucas;;;
+Sacatepéquez;Municipio de San Miguel Dueñas, Sacatepéquez;Miguel Dueñas;;;
+Sacatepéquez;Municipio de Santa Catarina Barahona, Sacatepéquez;Catarina Barahona;;;
+Sacatepéquez;Municipio de Santa Lucía Milpas Altas, Sacatepéquez;Santa Lucía Milpas Altas;;;
+Sacatepéquez;Municipio de Santa María de Jesús, Sacatepéquez;María de Jesús;;;
+Sacatepéquez;Municipio de Santiago, Sacatepéquez;Santiago;;;
+Sacatepéquez;Municipio de Santo Domingo Xenacoj, Sacatepéquez;Domingo Xenacoj;;;
+Sacatepéquez;Municipio de Sumpango, Sacatepéquez;Sumpango;;;
+San Marcos;Información acerca del municipio de Ayutla, San Marcos;Ayutla;;;
+San Marcos;Municipio de Catarina, San Marcos;Catarina Barahona;;;
+San Marcos;Municipio de Comitancillo, San Marcos;Comitancillo Barahona;;;
+San Marcos;Municipio de Concepción Tutuapa, San Marcos;Tutuapa Barahona;;;
+San Marcos;Municipio de El Quetzal, San Marcos;Quetzal Barahona;;;
+San Marcos;Municipio de El Tumbador, San Marcos;Tumbador Barahona;;;
+San Marcos;Municipio de Esquipulas Palo Gordo, San Marcos;Gordo Barahona;;;
+San Marcos;Municipio de Ixchiguán, San Marcos;Ixchiguán Barahona;;;
+San Marcos;Municipio de La Reforma, San Marcos;Reforma Barahona;;;
+San Marcos;Municipio de Malacatán, San Marcos;Malacatán Barahona;;;
+San Marcos;Municipio de Nuevo Progreso, San Marcos;Progreso Barahona;;;
+San Marcos;Municipio de Ocós, San Marcos;Ocós Barahona;;;
+San Marcos;Municipio de Pajapita, San Marcos;Pajapita Barahona;;;
+San Marcos;Municipio de Río Blanco, San Marcos;Blanco Barahona;;;
+San Marcos;Municipio de San Antonio Sacatepéquez, San Marcos;Sacatepéquez Barahona;;;
+San Marcos;Municipio de San Cristóbal Cucho, San Marcos;Cucho Barahona;;;
+San Marcos;Municipio de San José el Rodeo, San Marcos;Rodeo;;;
+San Marcos;Municipio de San José Ojetenam, San Marcos;Ojetenam Barahona;;;
+San Marcos;Municipio de San Lorenzo, San Marcos;Lorenzo Barahona;;;
+San Marcos;Municipio de San Marcos, San Marcos;Marcos Barahona;;;
+San Marcos;Municipio de San Miguel Ixtahuacán, San Marcos;Ixtahuacán Barahona;;;
+San Marcos;Municipio de San Pablo en el departamento de San Marcos;de Barahona;;;
+San Marcos;Municipio de San Pedro Sacatepéquez, San Marcos;Sacatepéquez Barahona;;;
+San Marcos;Municipio de San Rafael Pie de la Cuesta, San Marcos;Cuesta Barahona;;;
+San Marcos;Municipio de Sibinal en el departamento de San Marcos;de Barahona;;;
+San Marcos;Municipio de Sipacapa, en el departamento de San Marcos;de Barahona;;;
+San Marcos;Municipio de Tacana en el departamento de San Marcos;de Barahona;;;
+San Marcos;Municipio de Tajumulco, San Marcos;Tajumulco Barahona;;;
+San Marcos;Municipio de Tejutla, departamento de San Marcos;de Barahona;;;
+Santa Rosa;Información acerca del municipio de Barberena, Santa Rosa;Barberena;;;
+Santa Rosa;Información acerca del municipio de Casillas, Santa Rosa;Casillas;;;
+Santa Rosa;Municipio de Chiquimulilla, Santa Rosa;Chiquimulilla;;;
+Santa Rosa;Municipio de Cuilapa, Santa Rosa;Cuilapa;;;
+Santa Rosa;Municipio de Guazacapán, Santa Rosa;Guazacapán;;;
+Santa Rosa;Municipio de Nueva Santa Rosa, Santa Rosa;Rosa;;;
+Santa Rosa;Municipio de Oratorio, Santa Rosa;Oratorio;;;
+Santa Rosa;Municipio de Pueblo Nuevo Viñas, Santa Rosa;Viñas;;;
+Santa Rosa;Municipio de San Juan Tecuaco, Santa Rosa;Tecuaco;;;
+Santa Rosa;Municipio de San Rafael Las Flores, Santa Rosa;Flores;;;
+Santa Rosa;Municipio de Santa Cruz Naranjo, Santa Rosa;Naranjo;;;
+Santa Rosa;Municipio de Santa María Ixhuatán, Santa Rosa;Ixhuatán;;;
+Santa Rosa;Municipio de Santa Rosa de Lima, Santa Rosa;Lima;;;
+Santa Rosa;Municipio de Taxisco, Santa Rosa;Taxisco;;;
+Sololá;Información acerca del Municipio de Concepción, Sololá;Concepción;;;
+Sololá;Información acerca del Municipio de Panajachel, Sololá;Panajachel;;;
+Sololá;Información acerca del Municipio de San Andrés Semetabaj, Sololá;Semetabaj;;;
+Sololá;Información acerca del Municipio de San José Chacayá, Sololá;Chacayá;;;
+Sololá;Información acerca del Municipio de San Juan La Laguna, Sololá;Laguna;;;
+Sololá;Información acerca del Municipio de San Lucas Tolimán, Sololá;Tolimán;;;
+Sololá;Información acerca del Municipio de San Marcos La Laguna, Sololá;Laguna;;;
+Sololá;Información acerca del Municipio de San Pablo La Laguna, Sololá;Laguna;;;
+Sololá;Información acerca del Municipio de San Pedro La Laguna, Sololá;Laguna;;;
+Sololá;Información acerca del Municipio de Santa Catarina Ixtahuacán, Sololá;Ixtahuacán;;;
+Sololá;Información acerca del Municipio de Santa Clara La Laguna, Sololá;Laguna;;;
+Sololá;Información acerca del Municipio de Santa Cruz La Laguna, Sololá;Laguna;;;
+Sololá;Información acerca del Municipio de Santa Lucia Utatlán, Sololá;Utatlán;;;
+Sololá;Información acerca del Municipio de Santa María Visitación, Sololá;Visitación;;;
+Sololá;Información acerca del municipio de Santiago Atitlán, Sololá;Atitlán;;;
+Sololá;Información acerca del municipio de Sololá, Sololá;Sololá;;;
+Sololá;Municipio de Nahualá, Sololá;Nahualá;;;
+Suchitepéquez;Municipio de Chicacao, Suchitepéquez;Chicacao;;;
+Suchitepéquez;Municipio de Cuyotenango, Suchitepéquez;Cuyotenango;;;
+Suchitepéquez;Municipio de Mazatenango, Suchitepéquez;Mazatenango;;;
+Suchitepéquez;Municipio de Patulul, Suchitepéquez;Patulul;;;
+Suchitepéquez;Municipio de Pueblo Nuevo, Suchitepéquez;Nuevo;;;
+Suchitepéquez;Municipio de Río Bravo, Suchitepéquez;Bravo;;;
+Suchitepéquez;Municipio de Samayac, Suchitepéquez;Samayac;;;
+Suchitepéquez;Municipio de San Antonio, Suchitepéquez;Antonio;;;
+Suchitepéquez;Municipio de San Bernardino, Suchitepéquez;Bernardino;;;
+Suchitepéquez;Municipio de San Francisco Zapotitlán, Suchitepéquez;Zapotitlán;;;
+Suchitepéquez;Municipio de San Gabriel, Suchitepéquez;Gabriel;;;
+Suchitepéquez;Municipio de San José El Idolo, Suchitepéquez;Idolo;;;
+Suchitepéquez;Municipio de San Juan Bautista, Suchitepéquez;Bautista;;;
+Suchitepéquez;Municipio de San Lorenzo, Suchitepéquez;Lorenzo;;;
+Suchitepéquez;Municipio de San Miguel, Suchitepéquez;Miguel;;;
+Suchitepéquez;Municipio de San Pablo Jocopilas, Suchitepéquez;Jocopilas;;;
+Suchitepéquez;Municipio de Santa Barbara, Suchitepéquez;Barbara;;;
+Suchitepéquez;Municipio de Santo Tomas, Suchitepéquez;Tomas;;;
+Suchitepéquez;Municipio de Zunilito, Suchitepéquez;Zunilito;;;
+Totonicapán;Municipio de Momostenango, Totonicapán;Momostenango;;;
+Totonicapán;Municipio de San Andrés Xecul, Totonicapán;San Andrés Xecul;;;
+Totonicapán;Municipio de San Bartolo Aguas Calientes, Totonicapán;San Bartolo Aguas Calientes;;;
+Totonicapán;Municipio de San Cristóbal Totonicapán, Totonicapán;San Cristóbal Totonicapán;;;
+Totonicapán;Municipio de San Francisco El Alto, Totonicapán;San Francisco El Alto;;;
+Totonicapán;Municipio de Santa Lucia La Reforma, Totonicapán;Santa Lucia La Reforma;;;
+Totonicapán;Municipio de Santa María Chiquimula, Totonicapán;Santa María Chiquimula;;;
+Totonicapán;Municipio de Totonicapán, Totonicapán;Totonicapán;;;
+Zacapa;Municipio de Cabañas, Zacapa;Cabañas;;;
+Zacapa;Municipio de Estanzuela, Zacapa;Estanzuela;;;
+Zacapa;Municipio de Gualán, Zacapa;Gualán;;;
+Zacapa;Municipio de Huité, Zacapa;Huité;;;
+Zacapa;Municipio de La Unión, Zacapa;Unión;;;
+Zacapa;Municipio de Río Hondo, Zacapa;Hondo;;;
+Zacapa;Municipio de San Diego, Zacapa;Diego;;;
+Zacapa;Municipio de Teculután, Zacapa;Teculután;;;
+Zacapa;Municipio de Usumatlán, Zacapa;Usumatlán;;;
+Zacapa;Municipio de Zacapa, Zacapa;Zacapa;;;
