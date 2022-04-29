@@ -1,0 +1,50 @@
+Interna;Nombre;Puede ser vendido;Puede ser comprado;Tipo de producto;Politica de facturación;Precio Dólar;Precio de venta;Impuesto compra;Impuesto venta;Coste;Resposable
+INV-0001;Extensor de wifi netgear;True;False;Almacenable;Cantidades pedidas;30;228;;IVA por Cobrar;182.4;Polly Mapstone
+INV-0002;Cargador de teléfono externo;True;False;Almacenable;Cantidades pedidas;30;228;;IVA por Cobrar;182.4;Adelle Areles
+INV-0003;Soporte para smarphone popsockets;True;False;Almacenable;Cantidades pedidas;10;76;;IVA por Cobrar;60.8;Polly Mapstone
+INV-0004;Fitbit;True;False;Almacenable;Cantidades pedidas;100;760;;IVA por Cobrar;608;Adelle Areles
+INV-0005;Almoadilla para cargar inalámbrica;True;False;Almacenable;Cantidades pedidas;30;228;;IVA por Cobrar;182.4;Polly Mapstone
+INV-0006;Roku express+;True;False;Almacenable;Cantidades pedidas;40;304;;IVA por Cobrar;243.2;Adelle Areles
+INV-0007;Amazon echo;True;True;Almacenable;Cantidades pedidas;100;760;IVA por Pagar;IVA por Cobrar;608;Polly Mapstone
+INV-0008;Audífonos inalámbricos con bluetooth;True;False;Almacenable;Cantidades pedidas;68;516.8;;IVA por Cobrar;413.44;Adelle Areles
+INV-0009;Kindle;True;False;Almacenable;Cantidades pedidas;60;456;;IVA por Cobrar;364.8;Polly Mapstone
+INV-0010;Teclado inalámbrico logitech;True;False;Almacenable;Cantidades pedidas;20;152;;IVA por Cobrar;121.6;Adelle Areles
+INV-0011;Google chormecast;True;False;Almacenable;Cantidades pedidas;35;266;;IVA por Cobrar;212.8;Polly Mapstone
+INV-0012;Cargador para el auto maxboost;True;False;Almacenable;Cantidades pedidas;10;76;;IVA por Cobrar;60.8;Adelle Areles
+INV-0013;Hub para puerto usb;True;False;Almacenable;Cantidades pedidas;30;228;;IVA por Cobrar;182.4;Polly Mapstone
+INV-0014;Amazon fire TV stick;True;True;Almacenable;Cantidades pedidas;40;304;IVA por Pagar;IVA por Cobrar;243.2;Adelle Areles
+INV-0015;Guantes para pantalla táctil;True;False;Almacenable;Cantidades pedidas;11;83.6;;IVA por Cobrar;66.88;Polly Mapstone
+INV-0016;Drone para cámara de polaroid con wi-fi;True;False;Almacenable;Cantidades pedidas;300;2280;;IVA por Cobrar;1824;Adelle Areles
+INV-0017;Speaker con bluetooth bose;True;True;Almacenable;Cantidades pedidas;130;988;IVA por Pagar;IVA por Cobrar;790.4;Polly Mapstone
+INV-0018;Control inalámbrico para xbox one;True;True;Almacenable;Cantidades pedidas;44;334.4;IVA por Pagar;IVA por Cobrar;267.52;Adelle Areles
+INV-0019;Brazalete para smarphone;True;False;Almacenable;Cantidades pedidas;10;76;;IVA por Cobrar;60.8;Polly Mapstone
+INV-0020;Termostato nest;True;True;Almacenable;Cantidades pedidas;249;1892.4;IVA por Pagar;IVA por Cobrar;1513.92;Adelle Areles
+INV-0021;Balanza de cocina;True;False;Almacenable;Cantidades pedidas;80;608;;IVA por Cobrar;486.4;Polly Mapstone
+INV-0022;Mouse microdoft arc touch;True;True;Almacenable;Cantidades pedidas;43;326.8;IVA por Pagar;IVA por Cobrar;261.44;Adelle Areles
+INV-0023;Imán hiku para el refrigerador;True;True;Almacenable;Cantidades pedidas;49;372.4;IVA por Pagar;IVA por Cobrar;297.92;Polly Mapstone
+INV-0024;Control universal de puertas de garage para smartphone;True;False;Almacenable;Cantidades pedidas;99;752.4;;IVA por Cobrar;601.92;Adelle Areles
+INV-0025;Olla de cocción lenta crock-pot;True;True;Almacenable;Cantidades pedidas;130;988;IVA por Pagar;IVA por Cobrar;790.4;Polly Mapstone
+INV-0026;Termómetro para cocina iDevices;True;True;Almacenable;Cantidades pedidas;67;509.2;IVA por Pagar;IVA por Cobrar;407.36;Adelle Areles
+INV-0027;Apple TV;True;True;Almacenable;Cantidades pedidas;200;1520;IVA por Pagar;IVA por Cobrar;1216;Polly Mapstone
+INV-0028;Balanza medidora de tazas digital;True;False;Almacenable;Cantidades pedidas;25;190;;IVA por Cobrar;152;Adelle Areles
+INV-0029;Tetera eléctrica programable;True;False;Almacenable;Cantidades pedidas;77;585.2;;IVA por Cobrar;468.16;Polly Mapstone
+INV-0030;Termómetro weber iGrill;True;True;Almacenable;Cantidades pedidas;50;380;IVA por Pagar;IVA por Cobrar;304;Adelle Areles
+INV-0031;Olla de presión con bluetooth;True;False;Almacenable;Cantidades pedidas;120;912;;IVA por Cobrar;729.6;Polly Mapstone
+INV-0032;Asistente de panadería automático;True;False;Almacenable;Cantidades pedidas;45;342;;IVA por Cobrar;273.6;Adelle Areles
+INV-0033;Papelería iTouchless con sensor automático;True;True;Almacenable;Cantidades pedidas;53;402.8;IVA por Pagar;IVA por Cobrar;322.24;Polly Mapstone
+INV-0034;Cargador usb solar;True;False;Almacenable;Cantidades pedidas;60;456;;IVA por Cobrar;364.8;Adelle Areles
+INV-0035;Estación fitness;True;False;Almacenable;Cantidades pedidas;671;5099.6;;IVA por Cobrar;4079.68;Polly Mapstone
+INV-0036;Purificador de aire kenmore;True;True;Almacenable;Cantidades pedidas;100;760;IVA por Pagar;IVA por Cobrar;608;Adelle Areles
+INV-0037;Gopro;True;False;Almacenable;Cantidades pedidas;150;1140;;IVA por Cobrar;912;Polly Mapstone
+INV-0038;Soporte del auto para smartphone;True;False;Almacenable;Cantidades pedidas;11;83.6;;IVA por Cobrar;66.88;Adelle Areles
+INV-0039;Kit para el auto on bluetooth;True;False;Almacenable;Cantidades pedidas;36;273.6;;IVA por Cobrar;218.88;Polly Mapstone
+INV-0040;GPS Spy Tec;True;False;Almacenable;Cantidades pedidas;50;380;;IVA por Cobrar;304;Adelle Areles
+INV-0041;Detector de radar/Láser;True;False;Almacenable;Cantidades pedidas;30;228;;IVA por Cobrar;182.4;Polly Mapstone
+INV-0042;Cubre hoyos para el asiento del auto;True;True;Almacenable;Cantidades pedidas;10;76;IVA por Pagar;IVA por Cobrar;60.8;Adelle Areles
+INV-0043;Punto de acceso a wi-fi de AT&T;True;True;Almacenable;Cantidades pedidas;60;456;IVA por Pagar;IVA por Cobrar;364.8;Polly Mapstone
+INV-0044;Auriculares sin cable;True;False;Almacenable;Cantidades pedidas;48;364.8;;IVA por Cobrar;291.84;Adelle Areles
+INV-0045;Máquina del sueño;True;False;Almacenable;Cantidades pedidas;50;380;;IVA por Cobrar;304;Polly Mapstone
+INV-0046;Jardín inteligente;True;False;Almacenable;Cantidades pedidas;60;456;;IVA por Cobrar;364.8;Adelle Areles
+INV-0047;Airbar;True;False;Almacenable;Cantidades pedidas;99;752.4;;IVA por Cobrar;601.92;Polly Mapstone
+INV-0048;Humificador de niebla ultrasónico;True;False;Almacenable;Cantidades pedidas;40;304;;IVA por Cobrar;243.2;Adelle Areles
+INV-0049;Máscara para dormir de espuma;True;False;Almacenable;Cantidades pedidas;20;152;;IVA por Cobrar;121.6;Polly Mapstone

@@ -1,0 +1,34 @@
+Interna;Nombre;Puede ser vendido;Puede ser comprado;Tipo de producto;Politica de facturación;Precio de venta;Impuesto compra;Impuesto venta;Coste;Proveedor / Nombre;Proveedor / Cantidad;Proveedor / Precio
+INV-0050;Rasperry PI Pico;False;True;Almacenable;;;IVA por Pagar;;0.00;Bren Tome;8;99.00
+INV-0051;TDA7377;False;True;Almacenable;;;IVA por Pagar;;0.00;Porty Tees;1;25.00
+INV-0052;TDA7379;False;True;Almacenable;;;IVA por Pagar;;0.00;Ford Simeone;2;34.00
+INV-0053;LM386;False;True;Almacenable;;;IVA por Pagar;;0.00;Murial Iacopetti;2;6.00
+INV-0054;STK-402-040;False;True;Almacenable;;;IVA por Pagar;;0.00;Melesa MacElharge;1;80.00
+INV-0055;LM324L;False;True;Almacenable;;;IVA por Pagar;;0.00;Gaby Thurber;3;4.00
+INV-0056;LM324N;False;True;Almacenable;;;IVA por Pagar;;0.00;George Berrill;3;6.00
+INV-0057;LM339N;False;True;Almacenable;;;IVA por Pagar;;0.00;Lynnea Zimmerman;6;6.00
+INV-0058;LM358P;False;True;Almacenable;;;IVA por Pagar;;0.00;Renate Brick;4;4.00
+INV-0059;Base para IC 6 pines;False;True;Almacenable;;;IVA por Pagar;;0.00;Lois Postlewhite;5;1.00
+INV-0060;Base para IC 8 pines;False;True;Almacenable;;;IVA por Pagar;;0.00;Fabien McMorland;8;1.00
+INV-0061;Base para IC 14 pines;False;True;Almacenable;;;IVA por Pagar;;0.00;Cos Jerrans;8;1.25
+INV-0062;Base para IC 16 pines;False;True;Almacenable;;;IVA por Pagar;;0.00;Alverta Coorington;1;1.50
+INV-0063;74HC14N;False;True;Almacenable;;;IVA por Pagar;;0.00;Arlinda Hawley;1;6.00
+INV-0064;SMD-74HC595D;False;True;Almacenable;;;IVA por Pagar;;0.00;Chaim Barbera;10;4.00
+INV-0065;74HC595N;False;True;Almacenable;;;IVA por Pagar;;0.00;Brodie Kerwen;8;5.00
+INV-0066;CD4013BE;False;True;Almacenable;;;IVA por Pagar;;0.00;Jackqueline Lendon;10;7.00
+INV-0067;74HC00N;False;True;Almacenable;;;IVA por Pagar;;0.00;Karlotte Smurfitt;9;5.00
+INV-0068;74HC02N;False;True;Almacenable;;;IVA por Pagar;;0.00;Elicia Duester;9;5.00
+INV-0069;74HC04N;False;True;Almacenable;;;IVA por Pagar;;0.00;Tera Isaq;6;5.00
+INV-0070;CD4001BE;False;True;Almacenable;;;IVA por Pagar;;0.00;Davey Trobe;7;7.00
+INV-0071;ATMEGA328P;False;True;Almacenable;;;IVA por Pagar;;0.00;Ros Zelake;3;67.00
+INV-0072;ATMEGA32A;False;True;Almacenable;;;IVA por Pagar;;0.00;Alane Swiffan;3;68.00
+INV-0073;ATTINY13A;False;True;Almacenable;;;IVA por Pagar;;0.00;Dewitt Tumility;3;35.00
+INV-0074;ATTINY85;False;True;Almacenable;;;IVA por Pagar;;0.00;Pearl Venners;4;35.00
+INV-0075;AMS1117 3.3;False;True;Almacenable;;;IVA por Pagar;;0.00;Jacinda Krochmann;1;3.00
+INV-0076;AMS1117 5.0;False;True;Almacenable;;;IVA por Pagar;;0.00;Jefferey Purchase;8;3.00
+INV-0077;SMD KIA7805 5;False;True;Almacenable;;;IVA por Pagar;;0.00;Dane Bewshire;2;5.00
+INV-0078;SMD KIA7809 9;False;True;Almacenable;;;IVA por Pagar;;0.00;Guenevere McGuckin;1;5.00
+INV-0079;4N25;False;True;Almacenable;;;IVA por Pagar;;0.00;Jorgan Currington;6;4.00
+INV-0080;4N35;False;True;Almacenable;;;IVA por Pagar;;0.00;Jourdan Smelley;6;4.00
+INV-0081;DAC0832;False;True;Almacenable;;;IVA por Pagar;;0.00;Atalanta Cardow;7;35.00
+INV-0082;DS1302;False;True;Almacenable;;;IVA por Pagar;;0.00;Krishnah Eastment;5;24.00

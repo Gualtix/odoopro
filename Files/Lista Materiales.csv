@@ -1,0 +1,54 @@
+Referencia;Nombre;Producto;Cantidad;Tipo de LdM;Referencia Componente;Nombre Componente;Componente;Componente/Cantidad
+INV-0001;Extensor de wifi netgear;[INV-0001] Extensor de wifi netgear;1;Fabribar este producto;INV-0050;Rasperry PI Pico;[INV-0050] Rasperry PI Pico;4
+INV-0002;Cargador de teléfono externo;[INV-0002] Cargador de teléfono externo;1;Fabribar este producto;INV-0051;TDA7377;[INV-0051] TDA7377;1
+INV-0003;Soporte para smarphone popsockets;[INV-0003] Soporte para smarphone popsockets;1;Fabribar este producto;INV-0052;TDA7379;[INV-0052] TDA7379;3
+INV-0004;Fitbit;[INV-0004] Fitbit;1;Fabribar este producto;INV-0053;LM386;[INV-0053] LM386;1
+INV-0005;Almoadilla para cargar inalámbrica;[INV-0005] Almoadilla para cargar inalámbrica;1;Fabribar este producto;INV-0054;STK-402-040;[INV-0054] STK-402-040;4
+INV-0006;Roku express+;[INV-0006] Roku express+;1;Fabribar este producto;INV-0055;LM324L;[INV-0055] LM324L;5
+INV-0008;Audífonos inalámbricos con bluetooth;[INV-0008] Audífonos inalámbricos con bluetooth;1;Fabribar este producto;INV-0056;LM324N;[INV-0056] LM324N;5
+INV-0009;Kindle;[INV-0009] Kindle;1;Fabribar este producto;INV-0057;LM339N;[INV-0057] LM339N;4
+INV-0010;Teclado inalámbrico logitech;[INV-0010] Teclado inalámbrico logitech;1;Fabribar este producto;INV-0058;LM358P;[INV-0058] LM358P;1
+INV-0011;Google chormecast;[INV-0011] Google chormecast;1;Fabribar este producto;INV-0059;Base para IC 6 pines;[INV-0059] Base para IC 6 pines;4
+INV-0012;Cargador para el auto maxboost;[INV-0012] Cargador para el auto maxboost;1;Fabribar este producto;INV-0060;Base para IC 8 pines;[INV-0060] Base para IC 8 pines;2
+INV-0013;Hub para puerto usb;[INV-0013] Hub para puerto usb;1;Fabribar este producto;INV-0061;Base para IC 14 pines;[INV-0061] Base para IC 14 pines;4
+INV-0015;Guantes para pantalla táctil;[INV-0015] Guantes para pantalla táctil;1;Fabribar este producto;INV-0062;Base para IC 16 pines;[INV-0062] Base para IC 16 pines;4
+INV-0016;Drone para cámara de polaroid con wi-fi;[INV-0016] Drone para cámara de polaroid con wi-fi;1;Fabribar este producto;INV-0063;74HC14N;[INV-0063] 74HC14N;2
+INV-0019;Brazalete para smarphone;[INV-0019] Brazalete para smarphone;1;Fabribar este producto;INV-0064;SMD-74HC595D;[INV-0064] SMD-74HC595D;4
+INV-0021;Balanza de cocina;[INV-0021] Balanza de cocina;1;Fabribar este producto;INV-0065;74HC595N;[INV-0065] 74HC595N;4
+INV-0024;Control universal de puertas de garage para smartphone;[INV-0024] Control universal de puertas de garage para smartphone;1;Fabribar este producto;INV-0066;CD4013BE;[INV-0066] CD4013BE;1
+;;;;;INV-0067;74HC00N;[INV-0067] 74HC00N;2
+;;;;;INV-0068;74HC02N;[INV-0068] 74HC02N;2
+INV-0028;Balanza medidora de tazas digital;[INV-0028] Balanza medidora de tazas digital;1;Fabribar este producto;INV-0069;74HC04N;[INV-0069] 74HC04N;5
+;;;;;INV-0070;CD4001BE;[INV-0070] CD4001BE;4
+;;;;;INV-0071;ATMEGA328P;[INV-0071] ATMEGA328P;4
+INV-0029;Tetera eléctrica programable;[INV-0029] Tetera eléctrica programable;1;Fabribar este producto;INV-0072;ATMEGA32A;[INV-0072] ATMEGA32A;4
+;;;;;INV-0073;ATTINY13A;[INV-0073] ATTINY13A;2
+;;;;;INV-0074;ATTINY85;[INV-0074] ATTINY85;2
+INV-0031;Olla de presión con bluetooth;[INV-0031] Olla de presión con bluetooth;1;Fabribar este producto;INV-0075;AMS1117 3.3;[INV-0075] AMS1117 3.3;2
+;;;;;INV-0076;AMS1117 5.0;[INV-0076] AMS1117 5.0;4
+INV-0032;Asistente de panadería automático;[INV-0032] Asistente de panadería automático;1;Fabribar este producto;INV-0077;SMD KIA7805 5;[INV-0077] SMD KIA7805 5;3
+;;;;;INV-0078;SMD KIA7809 9;[INV-0078] SMD KIA7809 9;4
+INV-0034;Cargador usb solar;[INV-0034] Cargador usb solar;1;Fabribar este producto;INV-0079;4N25;[INV-0079] 4N25;2
+;;;;;INV-0080;4N35;[INV-0080] 4N35;4
+INV-0035;Estación fitness;[INV-0035] Estación fitness;1;Fabribar este producto;INV-0081;DAC0832;[INV-0081] DAC0832;2
+;;;;;INV-0082;DS1302;[INV-0082] DS1302;2
+INV-0037;Gopro;[INV-0037] Gopro;1;Fabribar este producto;INV-0050;Rasperry PI Pico;[INV-0050] Rasperry PI Pico;3
+INV-0038;Soporte del auto para smartphone;[INV-0038] Soporte del auto para smartphone;1;Fabribar este producto;INV-0051;TDA7377;[INV-0051] TDA7377;3
+INV-0039;Kit para el auto on bluetooth;[INV-0039] Kit para el auto on bluetooth;1;Fabribar este producto;INV-0052;TDA7379;[INV-0052] TDA7379;1
+;;;;;INV-0053;LM386;[INV-0053] LM386;3
+;;;;;INV-0054;STK-402-040;[INV-0054] STK-402-040;2
+INV-0040;GPS Spy Tec;[INV-0040] GPS Spy Tec;1;Fabribar este producto;INV-0055;LM324L;[INV-0055] LM324L;3
+;;;;;INV-0056;LM324N;[INV-0056] LM324N;4
+;;;;;INV-0057;LM339N;[INV-0057] LM339N;3
+INV-0041;Detector de radar/Láser;[INV-0041] Detector de radar/Láser;1;Fabribar este producto;INV-0058;LM358P;[INV-0058] LM358P;1
+;;;;;INV-0059;Base para IC 6 pines;[INV-0059] Base para IC 6 pines;4
+INV-0044;Auriculares sin cable;[INV-0044] Auriculares sin cable;1;Fabribar este producto;INV-0060;Base para IC 8 pines;[INV-0060] Base para IC 8 pines;2
+;;;;;INV-0061;Base para IC 14 pines;[INV-0061] Base para IC 14 pines;2
+INV-0045;Máquina del sueño;[INV-0045] Máquina del sueño;1;Fabribar este producto;INV-0062;Base para IC 16 pines;[INV-0062] Base para IC 16 pines;2
+;;;;;INV-0063;74HC14N;[INV-0063] 74HC14N;3
+INV-0046;Jardín inteligente;[INV-0046] Jardín inteligente;1;Fabribar este producto;INV-0064;SMD-74HC595D;[INV-0064] SMD-74HC595D;5
+;;;;;INV-0065;74HC595N;[INV-0065] 74HC595N;5
+INV-0047;Airbar;[INV-0047] Airbar;1;Fabribar este producto;INV-0066;CD4013BE;[INV-0066] CD4013BE;4
+;;;;;INV-0067;74HC00N;[INV-0067] 74HC00N;5
+INV-0048;Humificador de niebla ultrasónico;[INV-0048] Humificador de niebla ultrasónico;1;Fabribar este producto;INV-0068;74HC02N;[INV-0068] 74HC02N;4
+INV-0049;Máscara para dormir de espuma;[INV-0049] Máscara para dormir de espuma;1;Fabribar este producto;;;;

@@ -1,0 +1,72 @@
+Número;Partner;Fecha de factura/Recibo;Fecha de vencimiento;Estado de pago;Estado;Código producto;Nombre producto;Líneas de factura/Producto;Líneas de factura/Cantidad;Líneas de factura/Precio unitario
+S00001;Abran Boundey;6/03/2022;21/03/2022;No pagadas;Borrador;INV-0001;Extensor de wifi netgear;[INV-0001] Extensor de wifi netgear;1;228
+;;;;;;INV-0002;Cargador de teléfono externo;[INV-0002] Cargador de teléfono externo;2;228
+S00002;Aldon Barrat;7/04/2022;22/04/2022;No pagadas;Borrador;INV-0003;Soporte para smarphone popsockets;[INV-0003] Soporte para smarphone popsockets;2;76
+S00003;Ally MacCumiskey;17/03/2022;1/04/2022;No pagadas;Borrador;INV-0004;Fitbit;[INV-0004] Fitbit;3;760
+S00004;Allyn Goshawke;10/03/2022;25/03/2022;No pagadas;Borrador;INV-0005;Almoadilla para cargar inalámbrica;[INV-0005] Almoadilla para cargar inalámbrica;2;228
+S00005;Amalle Gadney;9/03/2022;24/03/2022;No pagadas;Borrador;INV-0006;Roku express+;[INV-0006] Roku express+;4;304
+S00006;Anna-diana Rodenborch;15/03/2022;30/03/2022;No pagadas;Borrador;INV-0008;Audífonos inalámbricos con bluetooth;[INV-0008] Audífonos inalámbricos con bluetooth;1;760
+S00007;Ansel Kitman;18/04/2022;3/05/2022;No pagadas;Borrador;INV-0009;Kindle;[INV-0009] Kindle;5;516.8
+S00008;April Eustice;4/04/2022;19/04/2022;No pagadas;Borrador;INV-0010;Teclado inalámbrico logitech;[INV-0010] Teclado inalámbrico logitech;2;456
+S00009;Arturo Rieflin;6/04/2022;21/04/2022;No pagadas;Borrador;INV-0011;Google chormecast;[INV-0011] Google chormecast;6;152
+S00010;Ashia Silverson;13/04/2022;28/04/2022;No pagadas;Borrador;INV-0012;Cargador para el auto maxboost;[INV-0012] Cargador para el auto maxboost;1;266
+S00011;Avis Nalder;16/03/2022;31/03/2022;No pagadas;Borrador;INV-0013;Hub para puerto usb;[INV-0013] Hub para puerto usb;7;76
+S00012;Avril Boules;9/04/2022;24/04/2022;No pagadas;Borrador;INV-0015;Guantes para pantalla táctil;[INV-0015] Guantes para pantalla táctil;2;228
+S00013;Axe Rae;25/03/2022;9/04/2022;No pagadas;Borrador;INV-0016;Drone para cámara de polaroid con wi-fi;[INV-0016] Drone para cámara de polaroid con wi-fi;8;304
+S00014;Blanche Tansey;12/03/2022;27/03/2022;No pagadas;Borrador;INV-0019;Brazalete para smarphone;[INV-0019] Brazalete para smarphone;1;83.6
+S00015;Bridget Packman;8/04/2022;23/04/2022;No pagadas;Borrador;INV-0021;Balanza de cocina;[INV-0021] Balanza de cocina;9;2280
+S00016;Budd Jellyman;10/04/2022;25/04/2022;No pagadas;Borrador;INV-0024;Control universal de puertas de garage para smartphone;[INV-0024] Control universal de puertas de garage para smartphone;1;988
+S00017;Cal Spykings;3/04/2022;18/04/2022;No pagadas;Borrador;INV-0028;Balanza medidora de tazas digital;[INV-0028] Balanza medidora de tazas digital;10;334.4
+S00018;Caren Atthow;18/04/2022;3/05/2022;No pagadas;Borrador;INV-0029;Tetera eléctrica programable;[INV-0029] Tetera eléctrica programable;1;76
+S00019;Chic Gambles;22/04/2022;7/05/2022;No pagadas;Borrador;INV-0031;Olla de presión con bluetooth;[INV-0031] Olla de presión con bluetooth;11;1892.4
+S00020;Cinnamon Luchetti;23/04/2022;8/05/2022;No pagadas;Borrador;INV-0032;Asistente de panadería automático;[INV-0032] Asistente de panadería automático;1;608
+S00021;Corty Ulyet;7/03/2022;22/03/2022;No pagadas;Borrador;INV-0034;Cargador usb solar;[INV-0034] Cargador usb solar;12;326.8
+S00022;Cynthea House;9/04/2022;24/04/2022;No pagadas;Borrador;INV-0035;Estación fitness;[INV-0035] Estación fitness;2;372.4
+S00023;Darrin Flux;5/04/2022;20/04/2022;No pagadas;Borrador;INV-0037;Gopro;[INV-0037] Gopro;13;752.4
+S00024;Darya Boundley;1/03/2022;16/03/2022;No pagadas;Borrador;INV-0038;Soporte del auto para smartphone;[INV-0038] Soporte del auto para smartphone;1;988
+S00025;Debby Bohlsen;6/03/2022;21/03/2022;No pagadas;Borrador;INV-0039;Kit para el auto on bluetooth;[INV-0039] Kit para el auto on bluetooth;14;509.2
+S00026;Demetrius Ludlam;15/04/2022;30/04/2022;No pagadas;Borrador;INV-0040;GPS Spy Tec;[INV-0040] GPS Spy Tec;1;1520
+S00027;Devondra Cainey;2/03/2022;17/03/2022;No pagadas;Borrador;INV-0041;Detector de radar/Láser;[INV-0041] Detector de radar/Láser;15;190
+S00028;Devondra Saiger;22/03/2022;6/04/2022;No pagadas;Borrador;INV-0044;Auriculares sin cable;[INV-0044] Auriculares sin cable;1;585.2
+S00029;Doe Wenn;23/04/2022;8/05/2022;No pagadas;Borrador;INV-0045;Máquina del sueño;[INV-0045] Máquina del sueño;16;380
+S00030;Dolores Tanguy;18/04/2022;3/05/2022;No pagadas;Borrador;INV-0046;Jardín inteligente;[INV-0046] Jardín inteligente;2;912
+S00031;Durant Shervil;17/03/2022;1/04/2022;No pagadas;Borrador;INV-0047;Airbar;[INV-0047] Airbar;17;342
+S00032;Edna Panther;24/04/2022;9/05/2022;No pagadas;Borrador;INV-0048;Humificador de niebla ultrasónico;[INV-0048] Humificador de niebla ultrasónico;1;402.8
+S00033;Elene Orred;5/04/2022;20/04/2022;No pagadas;Borrador;INV-0049;Máscara para dormir de espuma;[INV-0049] Máscara para dormir de espuma;18;456
+S00034;Emilio Wiltshear;14/03/2022;29/03/2022;No pagadas;Borrador;INV-0001;Extensor de wifi netgear;[INV-0001] Extensor de wifi netgear;2;5099.6
+S00035;Emmanuel Knapman;22/04/2022;7/05/2022;No pagadas;Borrador;INV-0002;Cargador de teléfono externo;[INV-0002] Cargador de teléfono externo;19;760
+S00036;Farica Minor;21/03/2022;5/04/2022;No pagadas;Borrador;INV-0003;Soporte para smarphone popsockets;[INV-0003] Soporte para smarphone popsockets;2;1140
+S00037;Federico Frankum;12/03/2022;27/03/2022;No pagadas;Borrador;INV-0004;Fitbit;[INV-0004] Fitbit;20;83.6
+S00038;Florencia McKinnell;12/03/2022;27/03/2022;No pagadas;Borrador;INV-0005;Almoadilla para cargar inalámbrica;[INV-0005] Almoadilla para cargar inalámbrica;2;273.6
+S00039;Frans Wilshere;24/03/2022;8/04/2022;No pagadas;Borrador;INV-0006;Roku express+;[INV-0006] Roku express+;21;380
+S00040;Frederique Brownett;14/04/2022;29/04/2022;No pagadas;Borrador;INV-0008;Audífonos inalámbricos con bluetooth;[INV-0008] Audífonos inalámbricos con bluetooth;2;228
+S00041;Gale Bernet;14/03/2022;29/03/2022;No pagadas;Borrador;INV-0009;Kindle;[INV-0009] Kindle;22;76
+S00042;Gracie Hymans;14/04/2022;29/04/2022;No pagadas;Borrador;INV-0010;Teclado inalámbrico logitech;[INV-0010] Teclado inalámbrico logitech;1;456
+S00043;Griffy Menci;18/04/2022;3/05/2022;No pagadas;Borrador;INV-0011;Google chormecast;[INV-0011] Google chormecast;23;364.8
+;;;;;;INV-0012;Cargador para el auto maxboost;[INV-0012] Cargador para el auto maxboost;2;380
+;;;;;;INV-0013;Hub para puerto usb;[INV-0013] Hub para puerto usb;24;456
+S00044;Grover Lacky;15/04/2022;30/04/2022;No pagadas;Borrador;INV-0015;Guantes para pantalla táctil;[INV-0015] Guantes para pantalla táctil;2;752.4
+S00045;Hastie Chittim;15/03/2022;30/03/2022;No pagadas;Borrador;INV-0016;Drone para cámara de polaroid con wi-fi;[INV-0016] Drone para cámara de polaroid con wi-fi;25;304
+S00046;Helli Teodoro;19/03/2022;3/04/2022;No pagadas;Borrador;INV-0019;Brazalete para smarphone;[INV-0019] Brazalete para smarphone;1;152
+S00047;Henrie Hunnywell;4/03/2022;19/03/2022;No pagadas;Borrador;INV-0021;Balanza de cocina;[INV-0021] Balanza de cocina;26;713.29
+;;;;;;INV-0024;Control universal de puertas de garage para smartphone;[INV-0024] Control universal de puertas de garage para smartphone;1;717.75
+S00048;Hussein Curuclis;23/04/2022;8/05/2022;No pagadas;Borrador;INV-0028;Balanza medidora de tazas digital;[INV-0028] Balanza medidora de tazas digital;27;722.21
+S00049;Ilaire Lundy;6/04/2022;21/04/2022;No pagadas;Borrador;INV-0029;Tetera eléctrica programable;[INV-0029] Tetera eléctrica programable;2;726.67
+S00050;Isabeau Finden;16/04/2022;1/05/2022;No pagadas;Borrador;INV-0031;Olla de presión con bluetooth;[INV-0031] Olla de presión con bluetooth;28;731.13
+;;;;;;INV-0032;Asistente de panadería automático;[INV-0032] Asistente de panadería automático;1;735.59
+;;;;;;INV-0034;Cargador usb solar;[INV-0034] Cargador usb solar;29;740.05
+S00051;Jamaal Climer;6/03/2022;21/03/2022;No pagadas;Borrador;INV-0035;Estación fitness;[INV-0035] Estación fitness;2;744.51
+;;;;;;INV-0037;Gopro;[INV-0037] Gopro;30;748.97
+;;;;;;INV-0038;Soporte del auto para smartphone;[INV-0038] Soporte del auto para smartphone;1;753.43
+;;;;;;INV-0039;Kit para el auto on bluetooth;[INV-0039] Kit para el auto on bluetooth;31;757.89
+S00052;Janelle Hanscome;16/03/2022;31/03/2022;No pagadas;Borrador;INV-0040;GPS Spy Tec;[INV-0040] GPS Spy Tec;1;762.35
+S00053;Jeffry Georghiou;22/04/2022;7/05/2022;No pagadas;Borrador;INV-0041;Detector de radar/Láser;[INV-0041] Detector de radar/Láser;32;766.81
+;;;;;;INV-0044;Auriculares sin cable;[INV-0044] Auriculares sin cable;2;771.27
+;;;;;;INV-0045;Máquina del sueño;[INV-0045] Máquina del sueño;33;775.73
+S00054;Julius Seares;20/03/2022;4/04/2022;No pagadas;Borrador;INV-0046;Jardín inteligente;[INV-0046] Jardín inteligente;2;780.19
+S00055;Karlens Inkpin;24/03/2022;8/04/2022;No pagadas;Borrador;INV-0047;Airbar;[INV-0047] Airbar;34;784.65
+S00056;Keenan Ryton;2/04/2022;17/04/2022;No pagadas;Borrador;INV-0048;Humificador de niebla ultrasónico;[INV-0048] Humificador de niebla ultrasónico;2;789.11
+S00057;Koressa Kyme;3/03/2022;18/03/2022;No pagadas;Borrador;INV-0049;Máscara para dormir de espuma;[INV-0049] Máscara para dormir de espuma;35;793.57
+S00058;Land Stannering;4/03/2022;19/03/2022;No pagadas;Borrador;INV-0001;Extensor de wifi netgear;[INV-0001] Extensor de wifi netgear;2;798.03
+S00059;Lane Matskiv;11/03/2022;26/03/2022;No pagadas;Borrador;INV-0002;Cargador de teléfono externo;[INV-0002] Cargador de teléfono externo;2;802.49
+S00060;Lauritz Bucksey;8/03/2022;23/03/2022;No pagadas;Borrador;INV-0003;Soporte para smarphone popsockets;[INV-0003] Soporte para smarphone popsockets;1;806.95
